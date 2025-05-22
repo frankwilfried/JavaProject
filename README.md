@@ -31,7 +31,7 @@ A simple task management application built with **Java**, **Spring Boot**, **JPA
 
 In `application.properties`:
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/Todo_App
-spring.datasource.username=postgres
-spring.datasource.password=2002
+spring.datasource.url=jdbc:**********
+spring.datasource.username=**********
+spring.datasource.password=**********
 spring.jpa.hibernate.ddl-auto=update
